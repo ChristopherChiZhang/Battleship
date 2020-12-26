@@ -1,6 +1,6 @@
 import java.awt.EventQueue;
 
-public class CA_ChristopherZhang {
+public class StartGame {
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
